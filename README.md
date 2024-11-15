@@ -1,0 +1,1 @@
+doubly Linked list consisting of n number of nodes to store integer elements, reads a number and a position from the user, creates a newnode with the number and inserts it in DLL in the given position.  
